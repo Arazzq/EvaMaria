@@ -1,5 +1,5 @@
 {
-    "name": "EvaMariaBot",
+    "name": "FrankBot",
     "description": "When you going to send file on telegram channel this bot will save that in database, So you can search that easily in inline mode",
     "stack": "container",
     "keywords": [
@@ -15,15 +15,15 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/EvamariaTG/EvaMaria",
-    "repository": "https://github.com/EvamariaTG/EvaMaria",
+    "website": "https://github.com/Arazzq/FrankRoBot",
+    "repository": "https://github.com/Arazzq/FrankRoBot",
     "env": {
         "BOT_TOKEN": {
-            "description": "Your bot token.",
+            "description": "Sənin bot tokenin.",
             "required": true
         },
         "API_ID": {
-            "description": "Get this value from https://my.telegram.org",
+            "description": "dəyərini alın https://my.telegram.org",
             "required": true
         },
         "API_HASH": {
